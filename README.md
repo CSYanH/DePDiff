@@ -1,4 +1,4 @@
-# Multiscale-Aided Patch Diffusion Model (MAP-Diff) 
+# Detail-Preserving Diffusion Models for Low-Light Image Enhancement (DePDiff) 
 
 This is the code repository.
 
@@ -10,7 +10,7 @@ Currently the repository is ***still*** being prepared, more details to be inclu
 python 3.9.12
 torch 1.12.0
 ```
-You should prepare at least 3080ti gpu or change the batch size. 
+You should prepare at least 3090ti gpu or change the batch size. 
 
 ```pip install -r requirement.txt``` </br>
 
